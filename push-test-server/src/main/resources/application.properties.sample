@@ -1,0 +1,5 @@
+push.push-server-url=https://push.codenameone.com/push/push
+push.push-token=xxxx
+push.ios-development-push-certificate=https://xxxxxx
+push.ios-development-push-certificate-password=xxxxx
+server.port=6946
