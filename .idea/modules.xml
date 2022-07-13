@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mypushtest.iml" filepath="$PROJECT_DIR$/.idea/mypushtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/mypushtest-common.iml" filepath="$PROJECT_DIR$/common/mypushtest-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase/mypushtest-javase.iml" filepath="$PROJECT_DIR$/javase/mypushtest-javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/push-test-server/push-test-server.iml" filepath="$PROJECT_DIR$/push-test-server/push-test-server.iml" />
+    </modules>
+  </component>
+</project>
